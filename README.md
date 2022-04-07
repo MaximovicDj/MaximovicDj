@@ -1,2 +1,2 @@
 Hello, everyone! 👋 
-My name is Djrodje Maksimovic and I'm a Front-End Developer. I live in Serbia/Belgrade.
+My name is Djordje Maksimovic and I'm a Back-End Developer. I live in Serbia/Belgrade.
